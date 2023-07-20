@@ -1,1 +1,0 @@
-# sripper.py
